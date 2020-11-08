@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\bin\Debug\netcoreapp3.1\GenericMenu.exe
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\bin\Debug\netcoreapp3.1\GenericMenu.deps.json
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\bin\Debug\netcoreapp3.1\GenericMenu.runtimeconfig.json
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\bin\Debug\netcoreapp3.1\GenericMenu.runtimeconfig.dev.json
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\bin\Debug\netcoreapp3.1\GenericMenu.dll
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\bin\Debug\netcoreapp3.1\GenericMenu.pdb
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\obj\Debug\netcoreapp3.1\GenericMenu.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\obj\Debug\netcoreapp3.1\GenericMenu.AssemblyInfo.cs
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\obj\Debug\netcoreapp3.1\GenericMenu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\obj\Debug\netcoreapp3.1\GenericMenu.dll
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\obj\Debug\netcoreapp3.1\GenericMenu.pdb
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\obj\Debug\netcoreapp3.1\GenericMenu.genruntimeconfig.cache
+C:\Users\PC\source\repos\MartaFonde\GenericMenu\GenericMenu\GenericMenu\obj\Debug\netcoreapp3.1\GenericMenu.csprojAssemblyReference.cache

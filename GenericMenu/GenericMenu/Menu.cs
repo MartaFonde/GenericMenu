@@ -8,7 +8,7 @@ namespace GenericMenu
     {
         public static void MenuGenerator(string[] options, MyDelegate[] functions)
         {
-            if (options != null && functions != null)
+            if (options != null && functions != null && options.GetLength(0) == functions.GetLength(0))
             {
                 int op;
                 do
@@ -32,6 +32,10 @@ namespace GenericMenu
                         Console.WriteLine();
                     }
                 } while (op < options.Length + 1);
+            }
+            else
+            {
+                Console.WriteLine("Error: The number of options and functions is diferent");
             }
         }
 
